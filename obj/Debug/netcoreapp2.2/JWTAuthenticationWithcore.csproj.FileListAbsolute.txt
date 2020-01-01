@@ -1,0 +1,14 @@
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\bin\Debug\netcoreapp2.2\JWTAuthenticationWithcore.deps.json
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\bin\Debug\netcoreapp2.2\JWTAuthenticationWithcore.runtimeconfig.json
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\bin\Debug\netcoreapp2.2\JWTAuthenticationWithcore.runtimeconfig.dev.json
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\bin\Debug\netcoreapp2.2\JWTAuthenticationWithcore.dll
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\bin\Debug\netcoreapp2.2\JWTAuthenticationWithcore.pdb
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.csprojAssemblyReference.cache
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.csproj.CoreCompileInputs.cache
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.RazorAssemblyInfo.cache
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.RazorAssemblyInfo.cs
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.AssemblyInfoInputs.cache
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.AssemblyInfo.cs
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.RazorTargetAssemblyInfo.cache
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.dll
+C:\Users\CBPC-\source\repos\JWTAuthenticationWithcore\JWTAuthenticationWithcore\obj\Debug\netcoreapp2.2\JWTAuthenticationWithcore.pdb
