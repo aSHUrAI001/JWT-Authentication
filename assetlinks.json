@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.flowreporter",
+    "sha256_cert_fingerprints":
+    ["88:B3:80:BC:D1:52:C2:D5:A6:C6:8D:DE:92:67:16:FA:C2:79:9C:08:0B:7F:E8:53:19:56:A4:49:9A:89:AC:5D"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://dsilelvdzjwe8.cloudfront.net"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.flowreporter",
+    "sha256_cert_fingerprints":
+    ["88:B3:80:BC:D1:52:C2:D5:A6:C6:8D:DE:92:67:16:FA:C2:79:9C:08:0B:7F:E8:53:19:56:A4:49:9A:89:AC:5D"]
+  }
+}]
